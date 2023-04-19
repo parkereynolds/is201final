@@ -1,0 +1,91 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    background-color: rgb(93, 151, 198);
+}
+ul {
+    font-size: 15px;
+    text-align: center;
+}
+ol {
+    font-size: 15px;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: purple;
+}
+.common {
+    background-color: rgb(236, 239, 225);
+    border: 2px solid black;
+    position: absolute;
+}
+.allignleft {
+    text-align: left;
+}
+.alligncenter {
+    text-align: center;
+}
+.heading {
+    font-size: 50px;
+    left: 500px;
+    top: 50px;
+}
+.uncom {
+    background-color: rgb(236, 239, 225);
+    position: absolute;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+}
+.leftmenu {
+    top: 164px;
+    left: 5px;
+    width: 100px;
+    height: auto;
+}
+.body {
+    top: 164px;
+    left: 114px;
+    right: 5px;
+    height: auto;
+    padding-right: 5px;
+    border-bottom: grey 12px;
+}
+.footer {
+    bottom: 1px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
+.subheader {
+    float: right;
+}
+.subheader2 {
+    font-size: 25px;
+    text-align: center;
+}
+.subheader3 {
+    font-size: 15px;
+    text-align: center;
+}
+.gbimg {
+    left: 114px;
+    right: 5px;
+}
